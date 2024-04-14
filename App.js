@@ -26,7 +26,7 @@ const Header = () => {
   return (
     <View style={styles.header}>
       <Image source={{ uri: "https://cdn-icons-png.flaticon.com/128/3114/3114883.png" }} style={styles.iconn} />
-      <Text style={styles.headerText}>Shops</Text>
+      <Text style={styles.headerText}>Women</Text>
       <Image source={{ uri: "https://cdn-icons-png.flaticon.com/128/622/622669.png" }} style={styles.iconn} />
       <Icon name="heart-o" size={24} color="black" />
       <Image source={{ uri: "https://cdn-icons-png.flaticon.com/128/2662/2662503.png" }} style={styles.iconn} />
